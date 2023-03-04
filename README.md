@@ -36,7 +36,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Views Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Miojinx}/count.svg" /></p> 
 <br></div>
 
